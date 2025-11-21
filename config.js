@@ -9,7 +9,7 @@ const config = {
   "realtor": {
     "fullName": "Christine Smith",
     "title": "REALTOR®",
-    "phone": "(613) 862-1127",
+    "phone": "(613) 706- 0066",
     "email": "christine@driscollpeca.com",
     "photoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-522395869_18512258038048642_5362730613341176316_n.jpg",
     "bio": "With years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers. With deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
@@ -22,7 +22,7 @@ const config = {
   "brokerage": {
     "name": "REAL Broker LTD",
     "logoUrl": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png",
-    "address": "218 Brant Avenue Brantford ON N3T 3H9"
+    "address": "Kemptville"
   },
   "openHouse": {
     "eventDate": "",
