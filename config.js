@@ -47,7 +47,7 @@ const config = {
     "privacyPolicyLink": "https://driscollpeca.com/privacy.html"
   },
   "settings": {
-    "primaryColor": "#05C3F9",
+    "primaryColor": "#00224a",
     "secondaryColor": "#05C3F9",
     "accentColor": "#05C3F9",
     "neutralColor": "",
